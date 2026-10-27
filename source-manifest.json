@@ -1,0 +1,359 @@
+{
+  "asset": "GPT's Buckingham Fountain",
+  "author": "X_Bean_X",
+  "publishedVersion": "1.1.0",
+  "publishedPackageSHA256": "c7a43a579a104c5d2bade26f4eb9f9e83c5238491b2d56c280d467fd9fe19d96",
+  "authoringFiles": [
+    {
+      "path": "Scripts/build_fountain.py",
+      "bytes": 21023,
+      "sha256": "cbd58d34141c8c9d9026470dfbee4d4938203dd8e349769e861b17bc199875a6"
+    },
+    {
+      "path": "Scripts/export_acm_native_v1.py",
+      "bytes": 4091,
+      "sha256": "72529e5cc3e561bb3c2d5f36423c48311659adecf2f101f8f24d4d9405097176"
+    },
+    {
+      "path": "Scripts/prepare_building_classification_v2.py",
+      "bytes": 6207,
+      "sha256": "b34d65e95b10fa88b202c671d43ae1c99419cd17e147b7e17647bb11214a25db"
+    },
+    {
+      "path": "Scripts/prepare_building_v3_native_lights.py",
+      "bytes": 4913,
+      "sha256": "7aac55640002a9ede4c79c55a84e3b7ad8f5ba6fd093a3c05905ddde7648bad1"
+    },
+    {
+      "path": "Scripts/prepare_building_v4_culling.py",
+      "bytes": 1355,
+      "sha256": "57e09c74f930a0d1f7f31d8dc9b83bfc632965ac7ef0d15aa776b6e58cfeb419"
+    },
+    {
+      "path": "Scripts/repair_native_export_v004.py",
+      "bytes": 3773,
+      "sha256": "ca5fc136f2677895293c9ffa425353846bc7645bfe519991eb514b3917880f58"
+    },
+    {
+      "path": "Working/Buckingham_Fountain_night_study.blend",
+      "bytes": 6787474,
+      "sha256": "b1765c0095066c437409e9bdeef81f24371bca93343aae1b75723b6853311f60"
+    },
+    {
+      "path": "Working/Buckingham_Fountain_night_v002.blend",
+      "bytes": 6786750,
+      "sha256": "57f751b3f37a534bc4f6bd4729495e435702723b474b515a8bee24aa8773d7ac"
+    },
+    {
+      "path": "Working/Buckingham_Fountain_v001.blend",
+      "bytes": 1285133,
+      "sha256": "7e7756add0ca18ede21ab48bdafc07ae7ef0b3b145769262a6125af6c03acfb0"
+    },
+    {
+      "path": "Working/Buckingham_Fountain_v002.blend",
+      "bytes": 1262737,
+      "sha256": "3e7b9c4925d2ed097cf30a285335cd14faaff6e57c2668130eb90e88305e6ad4"
+    },
+    {
+      "path": "Working/Buckingham_Fountain_v003.blend",
+      "bytes": 6776414,
+      "sha256": "a54e2c66b857f9d0113e8f39698c2ca444ae3375efecc830d57ff9411abbded7"
+    },
+    {
+      "path": "Working/EntityProbe_v2_after_placement.json",
+      "bytes": 2383,
+      "sha256": "50b0e2f414b6843530136de0a10be1e3e1a3eae46ed3c81cef880aac0e865eff"
+    },
+    {
+      "path": "Working/NetworkVisibility_v1_after_placement.json",
+      "bytes": 204,
+      "sha256": "8fd89cce224cc2c2bd3ad5d2845c4550408e11629bf6031c5d0094884ae10742"
+    },
+    {
+      "path": "Working/cleared_fragments_result.json",
+      "bytes": 246,
+      "sha256": "d7403dfd8a06aaec016f68158b272c09905b20a901631091b15676a5d8799e29"
+    },
+    {
+      "path": "Working/collision_candidates.json",
+      "bytes": 2177,
+      "sha256": "474395c60067f17ebbeca38eec4c4bf0b7d74b7cd071a8dbba4db78a3f829b76"
+    },
+    {
+      "path": "Working/continuation_pause_baseline.json",
+      "bytes": 151,
+      "sha256": "607142430b86f81b54931b5889604b7723f3e2835a04d8b1dbb94462500b0e58"
+    },
+    {
+      "path": "Working/continuation_progress.json",
+      "bytes": 317,
+      "sha256": "72303b6ad7d8bd9f2627a8da4cbd4fdacbc1463ce0295baf0446863ccfcc5d2b"
+    },
+    {
+      "path": "Working/continue_city_loading.jpg",
+      "bytes": 146630,
+      "sha256": "53689f33dae69c399f0f02375c123307bc000bb87265dd3bfbb603d2783c230e"
+    },
+    {
+      "path": "Working/continue_city_paused.jpg",
+      "bytes": 235057,
+      "sha256": "c7e4f7bfb920ba6b3cd3a99efc77b2f464c2eec5cb5f2d1d761b451b1b928059"
+    },
+    {
+      "path": "Working/continue_current.jpg",
+      "bytes": 265854,
+      "sha256": "d14a47c79db8df23439134889faca5c4e57c44be7e2fa05640e7542ed4509f35"
+    },
+    {
+      "path": "Working/continue_exit.jpg",
+      "bytes": 110567,
+      "sha256": "7c10e0cbc2a486594a6b2d77f2b5a76896984a88b4a511488cb26d7666651045"
+    },
+    {
+      "path": "Working/continue_fountain_placed_day.jpg",
+      "bytes": 209003,
+      "sha256": "c02d546915f4c138276257010ce00805364418495ec1935c9328848b6e13240a"
+    },
+    {
+      "path": "Working/continue_fountain_visibility.jpg",
+      "bytes": 195304,
+      "sha256": "a9653a4d7a829997fa47f8fd8cbdf3bec12aedaad9e51ea57e119e4e0d3047a2"
+    },
+    {
+      "path": "Working/continue_input_check.jpg",
+      "bytes": 283411,
+      "sha256": "eb0a62f5264bf9660d46d4d8a6cebadbffbaf3d0f39bf19d9564e35b2b8490f9"
+    },
+    {
+      "path": "Working/continue_load_menu.jpg",
+      "bytes": 275538,
+      "sha256": "d34bc0c4e18bf41f5e0b16733eedccf6d0a7350c91b2cbfce36621099b7ef7b4"
+    },
+    {
+      "path": "Working/continue_main_menu.jpg",
+      "bytes": 110723,
+      "sha256": "902c80b32459a1471484fc34c4daf89ccede2cb8c0e3ce9f27eeebc943036091"
+    },
+    {
+      "path": "Working/continue_main_menu2.jpg",
+      "bytes": 208343,
+      "sha256": "1c9e252e74fb717b892dc566efa551c959dd89b431b92e465eed8b2a9f351cf0"
+    },
+    {
+      "path": "Working/continue_menu.jpg",
+      "bytes": 265992,
+      "sha256": "b638072b9aa9b6efb0d9b6bd3b707f07814fc7a76a4ee099613c0ac6ba47b1a9"
+    },
+    {
+      "path": "Working/continue_options.jpg",
+      "bytes": 264629,
+      "sha256": "37cc587c8492fbabb7c63a636add678122ce830cba1fbc0187851a3fd4664d55"
+    },
+    {
+      "path": "Working/continue_pointer_check.jpg",
+      "bytes": 135616,
+      "sha256": "6746c9caf623b5cf98bdc8abf9f266846a324dd597963d3d4eb4571bbc2f28f0"
+    },
+    {
+      "path": "Working/continue_reload_focus.jpg",
+      "bytes": 146367,
+      "sha256": "9315d3cb9a2eaa40e37c45b27a6e3e1a105e57abdba576d8c4cba475b875105a"
+    },
+    {
+      "path": "Working/continue_reload_loading.jpg",
+      "bytes": 163998,
+      "sha256": "140885cdddfd23115e47a64f1210b1699c9673b6b8cfa1af5f02956ea7dbb6d8"
+    },
+    {
+      "path": "Working/continue_reload_menu.jpg",
+      "bytes": 148318,
+      "sha256": "6a3988bce7abd7298a0acea2a8eb4e2b914f3848f5c23995a9e58a2ade4d8b70"
+    },
+    {
+      "path": "Working/continue_reloading.jpg",
+      "bytes": 156744,
+      "sha256": "33a5b9e6fa7f5c252ff62d4c1718c050ab4b6df52acd572260290ba1a97d0fac"
+    },
+    {
+      "path": "Working/continue_select_saved_checkpoint.jpg",
+      "bytes": 272255,
+      "sha256": "580f9f34737908931de916adb2627152c220b6d51044476a98b794da71e0f018"
+    },
+    {
+      "path": "Working/day_validation.json",
+      "bytes": 571,
+      "sha256": "2da6e749f656e2d3e559a23ca3607d64d26e193b803295055a7db08a8eb21aff"
+    },
+    {
+      "path": "Working/fountain_56_lights_clipboard.json",
+      "bytes": 78315,
+      "sha256": "97db592d24187b9cc8e4403d732fb9025a8b5fa768cc3c979fec791c40c87e55"
+    },
+    {
+      "path": "Working/fountain_chicago_day.jpg",
+      "bytes": 240806,
+      "sha256": "419f080f544d06cd46086ee59aa5118c8701fc92493c88af35b4dc3a1cff3a97"
+    },
+    {
+      "path": "Working/fountain_chicago_night.jpg",
+      "bytes": 192334,
+      "sha256": "3e4367b24e3746135a82b685aab87797ad0dcdbd19f9dc65dc697500e4183bf0"
+    },
+    {
+      "path": "Working/fountain_chicago_reloaded_day.jpg",
+      "bytes": 230913,
+      "sha256": "86aa1b5bda5327987195ba9647ec33c4cec7a2ca4a78542881023bcedaaf3859"
+    },
+    {
+      "path": "Working/fountain_chicago_reloaded_night.jpg",
+      "bytes": 191041,
+      "sha256": "94aa5b4888391921aefc5d81c68ef2034698f49da6c1f1c9b74fd65422e6eb4b"
+    },
+    {
+      "path": "Working/fountain_two_lights_clipboard.json",
+      "bytes": 2912,
+      "sha256": "a50e05ef86cd26bd214b16709dde48f44e8dbafcee3cc23456f476f6e68fa87c"
+    },
+    {
+      "path": "Working/fountain_violet_light_clipboard.json",
+      "bytes": 1195,
+      "sha256": "74c3bf268affdf2f346ca6db467ca74ca677549b88654d97c523b3016ace5f2d"
+    },
+    {
+      "path": "Working/fountain_warm_light_clipboard.json",
+      "bytes": 1193,
+      "sha256": "569d0963a229df3a428ca393ab3bdf48bed89f98525e5e42d511dab69b5c3757"
+    },
+    {
+      "path": "Working/native_effect_prefab_clipboard.json",
+      "bytes": 209,
+      "sha256": "7d281c8c496e1386e473ff4712c34e49f8929ba59c1e63fe910d82895c8a8660"
+    },
+    {
+      "path": "Working/native_ground_light_effect_source_clipboard.json",
+      "bytes": 737,
+      "sha256": "8a54765f207f819d5e0d50f9906865747fe65cbfc31689986f8278dee5cb39e3"
+    },
+    {
+      "path": "Working/native_light_effect_clipboard.json",
+      "bytes": 1007,
+      "sha256": "4996d2015656a7daea81c04698264833a7e6551f711a54cbd291dc36b3307d8d"
+    },
+    {
+      "path": "Working/native_prefab_inspection.json",
+      "bytes": 4770,
+      "sha256": "4efe4926a2cb5bc28e725332aade2af26d546a3c8a727d0d4f28bdf20610df06"
+    },
+    {
+      "path": "Working/nearby_network.json",
+      "bytes": 9752,
+      "sha256": "73b88ecdbf3c929a7222d70116a1e848b370617af6b4ba10e449fc9916c27c13"
+    },
+    {
+      "path": "Working/night_validation.json",
+      "bytes": 573,
+      "sha256": "10b8773d21c7066db5d49fde484f35a426dc9ca57fa91a2556ca26f962d2a9a0"
+    },
+    {
+      "path": "Working/normal_game_catalog.json",
+      "bytes": 5141,
+      "sha256": "ead05eef7f357b74f4e3fa48afce048244005d2ecfeae8c5796d073c1bf84c50"
+    },
+    {
+      "path": "Working/path_fragment_check.json",
+      "bytes": 1274,
+      "sha256": "4feb08b8d0f9625746f4f86cffb332f1c6330300ba52884b7dc327cea4466f14"
+    },
+    {
+      "path": "Working/placed_checkpoint.json",
+      "bytes": 695,
+      "sha256": "4bd1450c869b99cd52773cb6eb055b55a10006fe03f62bdedf681039ed96867e"
+    },
+    {
+      "path": "Working/placement_after.json",
+      "bytes": 5190,
+      "sha256": "d9156c0ddc1847a8488bbe16c78ce83cc848fb318e5499dfcd6d385f04f21c91"
+    },
+    {
+      "path": "Working/placement_before.json",
+      "bytes": 4827,
+      "sha256": "ec18cffcc9f9a3f4d54ffe7467614f2bd5870b6350ffdec615547c326ea997ae"
+    },
+    {
+      "path": "Working/placement_lookup.json",
+      "bytes": 13983,
+      "sha256": "93cb19137e9d33911895872cce440258143d853445150f144c6cad72e744c958"
+    },
+    {
+      "path": "Working/placement_reference.json",
+      "bytes": 196,
+      "sha256": "0f08a4a154e875ebf4f6cae1079b2b1dcfe2ebb59310ac9a265a9ba8c1d96e82"
+    },
+    {
+      "path": "Working/placement_result.json",
+      "bytes": 283,
+      "sha256": "13fc6dc86a1ae309f6d38efc14464250db6b5aca0c2b0a18b98b462d14ef6879"
+    },
+    {
+      "path": "Working/post_interruption_check.json",
+      "bytes": 2481,
+      "sha256": "3eb4ee5830c83212548e99f03c155e626cd9ab109619ad778ef635ee8cfcef1c"
+    },
+    {
+      "path": "Working/reload-completion-6f6bee848a3a4f71a1ab36baaf62639a.json",
+      "bytes": 178,
+      "sha256": "78183537b8eac9cf063d8a42603dc02614f2b6c8e5d38b26562a2f0b6b9ee10a"
+    },
+    {
+      "path": "Working/reload_before.json",
+      "bytes": 232,
+      "sha256": "3021871b0c430b9b70b79c332e8d86d04d8a335b5fe29152918e59ebe7a43307"
+    },
+    {
+      "path": "Working/reload_display_check.jpg",
+      "bytes": 183528,
+      "sha256": "f50ecf6030b9b07d79cb13ed1e33afbc8aaef837aa447cd69593cb2b16ff8b44"
+    },
+    {
+      "path": "Working/reload_display_clear.jpg",
+      "bytes": 130686,
+      "sha256": "f9aad93101c80ff41e15e8cc47335af8169946d21c149d3f655f952bd2bb4353"
+    },
+    {
+      "path": "Working/reload_request.json",
+      "bytes": 864,
+      "sha256": "a4b41f3ee7cbab9308e884dddb3a47d46072ee27af96c2dd8254ed74ca878948"
+    },
+    {
+      "path": "Working/reload_session.json",
+      "bytes": 171,
+      "sha256": "499be09311a275d16c8a766dce9649b32a30529e23c5c1721f4d9fe6bc844006"
+    },
+    {
+      "path": "Working/reload_validation.json",
+      "bytes": 5567,
+      "sha256": "bee6c97930dc048f5bc7bea5d30bd46699e7140dd33d518a97a37629db2b5b5a"
+    },
+    {
+      "path": "Working/saved_fountain_inspection.json",
+      "bytes": 2481,
+      "sha256": "3eb4ee5830c83212548e99f03c155e626cd9ab109619ad778ef635ee8cfcef1c"
+    },
+    {
+      "path": "Working/visibility_after_clear.json",
+      "bytes": 2349,
+      "sha256": "1ee4e14740427b37c676338d93ca62077a398b024bbaf72377b6053d1de06f0c"
+    },
+    {
+      "path": "Working/visual_time_original.json",
+      "bytes": 84,
+      "sha256": "2c9da79f6757ebcd43aa5469553341dda4ea6aad1528f59dc7a0902d24ba640b"
+    },
+    {
+      "path": "Working/visual_time_restored.json",
+      "bytes": 585,
+      "sha256": "47db1e921c2188f666f482273df8414822afe5f922074d36792ef871e2b42303"
+    }
+  ],
+  "nativeDefinitionFiles": 41
+}
