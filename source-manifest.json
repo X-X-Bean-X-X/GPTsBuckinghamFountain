@@ -1,8 +1,8 @@
 {
   "asset": "GPT's Buckingham Fountain",
   "author": "X_Bean_X",
-  "publishedVersion": "1.1.0",
-  "publishedPackageSHA256": "c7a43a579a104c5d2bade26f4eb9f9e83c5238491b2d56c280d467fd9fe19d96",
+  "publishedVersion": "1.829.954",
+  "publishedPackageSHA256": "56685eb57a6aa351c5534117fe46a40cef3bc42d335ab860ddece233a608a1b1",
   "authoringFiles": [
     {
       "path": "Scripts/build_fountain.py",
@@ -355,5 +355,5 @@
       "sha256": "47db1e921c2188f666f482273df8414822afe5f922074d36792ef871e2b42303"
     }
   ],
-  "nativeDefinitionFiles": 41
+  "nativeDefinitionFiles": 49
 }
