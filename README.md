@@ -2,9 +2,11 @@
 
 Editable asset source by **X_Bean_X** for Cities: Skylines II.
 
-[Paradox Mods listing](https://mods.paradoxplaza.com/mods/164642/Any) — published version **1.829.954**.
+[Paradox Mods listing](https://mods.paradoxplaza.com/mods/164642/Any) â€” published version **2.0.1**.
 
 Version 1.829.954 adds park recreation, visitor attraction, citywide and local effects, and sidewalk entrances.
+
+Version 2.0.1 adds the grass verge, tan paving, loop railing and 60 warm lanterns. The native archive includes the border meshes, lighting and texture data from the release, and the 12 × 12 lot with aligned pedestrian entrances.
 
 ## Contents
 
@@ -22,7 +24,7 @@ The playable asset remains available through Paradox Mods. This source publicati
 
 ## Provenance
 
-Current public package SHA-256: `56685eb57a6aa351c5534117fe46a40cef3bc42d335ab860ddece233a608a1b1`. Both the public download and its inner package passed ZIP integrity checks. Source archives were checked after creation.
+Current public package SHA-256: `5a4fea0ce40d26263646222abe418a58e7f20e38b88bca71a4eedff54e6b1361`. Both the public download and its inner package passed ZIP integrity checks. Source archives were checked after creation.
 
 No additional reuse license is granted by this source publication.
 
